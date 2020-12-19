@@ -6,7 +6,7 @@
   "private": true,
   "dependencies": {
     "@mdx-js/mdx": "^1.6.18",
-    "@mdx-js/react": "^1.6.18",
+    "@mdx-js/react": "^1.6.21",
     "@smotaal.io/dark-mode-controller": "<0.5",
     "@storybook/addon-actions": "^5.3.19",
     "@storybook/addon-links": "^5.3.19",
